@@ -1,7 +1,7 @@
 ci-workflow
 ===========
 
-Classification Workflow for Converged Infrastructure Systems
+# Classification Workflow for Converged Infrastructure Systems
 
 Project to provide consumers of Converged Infrastructure a way to classify their purchase into a standard category. Using the document "Market Share Analysis: Data Center Hardware Integrated Systems, 1Q11-2Q12" as a core reference (http://www.gartner.com/id=2260715 or http://www.vce.com/asset/documents/gartner-market-share-analysis-report.pdf), and extending the definitions to include the "hyper-converged infrastructure system" category, the goal would be for customers to easily classify a purchase into the category it belongs to, alleviating any confusion.
 
